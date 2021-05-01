@@ -1,0 +1,5 @@
+pyspark[sql]==2.4.3
+pytest
+pytest-mock
+interpret
+pytest_mock==3.6.0
