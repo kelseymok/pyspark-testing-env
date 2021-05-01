@@ -1,4 +1,3 @@
 pyspark[sql]==2.4.3
 pytest
 pytest-mock
-interpret
